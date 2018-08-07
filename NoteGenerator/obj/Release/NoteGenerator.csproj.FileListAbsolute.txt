@@ -1,0 +1,10 @@
+C:\Users\DaniloDJokic\source\repos\NoteGenerator\NoteGenerator\bin\Release\NoteGenerator.exe.config
+C:\Users\DaniloDJokic\source\repos\NoteGenerator\NoteGenerator\bin\Release\NoteGenerator.exe
+C:\Users\DaniloDJokic\source\repos\NoteGenerator\NoteGenerator\bin\Release\NoteGenerator.pdb
+C:\Users\DaniloDJokic\source\repos\NoteGenerator\NoteGenerator\obj\Release\NoteGenerator.Form1.resources
+C:\Users\DaniloDJokic\source\repos\NoteGenerator\NoteGenerator\obj\Release\NoteGenerator.Properties.Resources.resources
+C:\Users\DaniloDJokic\source\repos\NoteGenerator\NoteGenerator\obj\Release\NoteGenerator.csproj.GenerateResource.cache
+C:\Users\DaniloDJokic\source\repos\NoteGenerator\NoteGenerator\obj\Release\NoteGenerator.csproj.CoreCompileInputs.cache
+C:\Users\DaniloDJokic\source\repos\NoteGenerator\NoteGenerator\obj\Release\NoteGenerator.exe
+C:\Users\DaniloDJokic\source\repos\NoteGenerator\NoteGenerator\obj\Release\NoteGenerator.pdb
+C:\Users\DaniloDJokic\source\repos\NoteGenerator\NoteGenerator\obj\Release\NoteGenerator.csprojResolveAssemblyReference.cache
